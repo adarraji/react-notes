@@ -127,4 +127,3 @@ Feel free to explore the code examples and adapt them to your specific needs.
 ---
 
 **Note:** This is a simplified example for explanatory purposes. In a real-world scenario, you may need to handle more complex use cases and considerations.
-```
