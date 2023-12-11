@@ -1,6 +1,3 @@
-Certainly! Below is an example README.md file explaining the Observer Pattern in JavaScript and React:
-
-```markdown
 # Observer Pattern in JavaScript and React
 
 ## Introduction
