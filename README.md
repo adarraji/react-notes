@@ -23,7 +23,7 @@ The repository includes notes on the following topics:
 - Component Lifecycle
 - State and Props
 - React Hooks
-- Context API
+- [Context API](react-context.md)
 - React Router
 - Best Practices
 - and more...
