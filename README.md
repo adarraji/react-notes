@@ -24,6 +24,7 @@ The repository includes notes on the following topics:
 - State and Props
 - React Hooks
 - [Context API](react-context.md)
+- [Prop Drilling](prop-drilling.md)
 - [Oberver Pattern](oberver-pattern.md)
 - React Router
 - Best Practices
